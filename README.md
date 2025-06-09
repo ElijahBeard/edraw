@@ -1,2 +1,2 @@
 # edraw
-drawing application for Linux and Mac
+A drawing application for Linux and Mac
